@@ -32,7 +32,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tapioca_ss/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/sony/tapioca_ss/proprietary/bin/qmiproxy:system/bin/qmiproxy \
     vendor/sony/tapioca_ss/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/sony/tapioca_ss/proprietary/bin/rild:system/bin/rild \
+    vendor/sony/tapioca_ss/proprietary/bin/rild:system/bin/rild fza\
     vendor/sony/tapioca_ss/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/sony/tapioca_ss/proprietary/bin/startupflag:system/bin/startupflag \
     vendor/sony/tapioca_ss/proprietary/bin/ta_rmt_service:system/bin/ta_rmt_service \
