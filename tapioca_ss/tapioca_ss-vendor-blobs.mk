@@ -32,7 +32,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tapioca_ss/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/sony/tapioca_ss/proprietary/bin/qmiproxy:system/bin/qmiproxy \
     vendor/sony/tapioca_ss/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/sony/tapioca_ss/proprietary/bin/rild:system/bin/rild fza\
+    vendor/sony/tapioca_ss/proprietary/bin/rild:system/bin/rild \
     vendor/sony/tapioca_ss/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/sony/tapioca_ss/proprietary/bin/startupflag:system/bin/startupflag \
     vendor/sony/tapioca_ss/proprietary/bin/ta_rmt_service:system/bin/ta_rmt_service \
@@ -40,6 +40,12 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tapioca_ss/proprietary/bin/updatemiscta:system/bin/updatemiscta \
     vendor/sony/tapioca_ss/proprietary/bin/wait4tad:system/bin/wait4tad \
     vendor/sony/tapioca_ss/proprietary/bin/wiperiface:system/bin/wiperiface \
+    vendor/sony/tapioca_ss/proprietary/etc/AudioFilter.csv:system/etc/AudioFilter.csv \
+    vendor/sony/tapioca_ss/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
+    vendor/sony/tapioca_ss/proprietary/etc/audio_effects.conf:system/etc/audio_effects.conf \
+    vendor/sony/tapioca_ss/proprietary/lib/bluez-plugin/audio.so:system/lib/bluez-plugin/audio.so \
+    vendor/sony/tapioca_ss/proprietary/lib/hw/audio.primary.sony.so:system/lib/hw/audio.primary.sony.so \
+    vendor/sony/tapioca_ss/proprietary/lib/hw/audio_policy.sony.so:system/lib/hw/audio_policy.sony.so \
     vendor/sony/tapioca_ss/proprietary/etc/bcm4330/BCM4330B1_002.001.003.0750.0775.hcd:system/etc/bcm4330/BCM4330B1_002.001.003.0750.0775.hcd \
     vendor/sony/tapioca_ss/proprietary/etc/bcm4330/bcm94330wlsdgbphone.txt:system/etc/bcm4330/bcm94330wlsdgbphone.txt \
     vendor/sony/tapioca_ss/proprietary/etc/bcm4330/sdio-g-mfgtest-seqcmds.bin:system/etc/bcm4330/sdio-g-mfgtest-seqcmds.bin \
