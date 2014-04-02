@@ -49,7 +49,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tapioca_ss/proprietary/etc/firmware/TAP_TMA340_0002.hex:system/etc/firmware/TAP_TMA340_0002.hex \
     vendor/sony/tapioca_ss/proprietary/etc/firmware/TAP_TMA340_0005.hex:system/etc/firmware/TAP_TMA340_0005.hex \
     vendor/sony/tapioca_ss/proprietary/etc/firmware/TAP_TMA340_0006.hex:system/etc/firmware/TAP_TMA340_0006.hex \
-    vendor/sony/tapioca_ss/proprietary/etc/firmware/TAP_TMA340_0007.hex:system/etc/firmware/TAP_TMA340_0007.hex \
+    vendor/sony/tapioca_ss/proprietary/etc/firmware/TddAP_TMA340_0007.hex:system/etc/firmware/TAP_TMA340_0007.hex \
     vendor/sony/tapioca_ss/proprietary/etc/firmware/TAP_TMA340_0008.hex:system/etc/firmware/TAP_TMA340_0008.hex \
     vendor/sony/tapioca_ss/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     vendor/sony/tapioca_ss/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
