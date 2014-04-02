@@ -53,6 +53,12 @@ PRODUCT_COPY_FILES += \
     vendor/sony/tapioca_ss/proprietary/etc/firmware/TAP_TMA340_0008.hex:system/etc/firmware/TAP_TMA340_0008.hex \
     vendor/sony/tapioca_ss/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     vendor/sony/tapioca_ss/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
+    vendor/sony/tapioca_ss/proprietary/etc/AudioFilter.csv:system/etc/AudioFilter.csv \
+    vendor/sony/tapioca_ss/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
+    vendor/sony/tapioca_ss/proprietary/etc/audio_effects.conf:system/etc/audio_effects.conf \
+    vendor/sony/tapioca_ss/proprietary/lib/bluez-plugin/audio.so:system/lib/bluez-plugin/audio.so \
+    vendor/sony/tapioca_ss/proprietary/lib/hw/audio.primary.sony.so:system/lib/hw/audio.primary.sony.so \
+    vendor/sony/tapioca_ss/proprietary/lib/hw/audio_policy.sony.so:system/lib/hw/audio_policy.sony.so \
     vendor/sony/tapioca_ss/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
     vendor/sony/tapioca_ss/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
     vendor/sony/tapioca_ss/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
